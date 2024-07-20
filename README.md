@@ -132,7 +132,7 @@ export const appConfig: ApplicationConfig = {
     }))]
 };
 
-``
+```
 
 - `app.component.html`
 
